@@ -1,4 +1,6 @@
-#Whenever founds internet connectivity  confirms is it you
+#Whenever founds internet connectivity  confirms is it you if not log you off
+#and send pic of intruder to your Pushbullet connected all devices.
+
 #Author :  Vishal Kumar
 #https://github.com/TheBeast007/
 
